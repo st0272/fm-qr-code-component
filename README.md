@@ -19,14 +19,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+desctop  
 ![desktop](./images/screenshot_desktop.png)
 
+mobile  
 ![mobile](./images/screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [st0272\/fm-qr-code-component](https://github.com/st0272/fm-qr-code-component)
+- Live Site URL: [fm-qr-code-component](https://demo.suzunatsu.com/fm-qr-code-component/)
 
 ## My process
 
