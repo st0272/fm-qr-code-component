@@ -28,7 +28,7 @@ mobile
 ### Links
 
 - Solution URL: [st0272\/fm-qr-code-component](https://github.com/st0272/fm-qr-code-component)
-- Live Site URL: [fm-qr-code-component](https://demo.suzunatsu.com/fm-qr-code-component/)
+- Live Site URL: [fm-qr-code-component](https://st0272.github.io/fm-qr-code-component/)
 
 ## My process
 
@@ -73,15 +73,6 @@ Card centering with grid layout
 .container {
   display: block grid;
   place-content: center;
-}
-```
-
-Sticky positioning (attribution content)
-
-```css
-.attribution {
-  position: sticky;
-  top: 100dvb;
 }
 ```
 

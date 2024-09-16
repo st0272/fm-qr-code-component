@@ -1,20 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- Google tag (gtag.js) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-VBE3QHFWZ6"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-VBE3QHFWZ6");
-    </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- displays site properly based on user's device -->
@@ -85,8 +71,8 @@
         font-size: 11px;
         text-align: center;
         padding-block: 0.5em;
-        position: sticky;
-        top: 100dvb;
+        position: fixed;
+        inset: auto 0 0 0;
       }
       .attribution a {
         color: hsl(228, 45%, 44%);
@@ -94,7 +80,7 @@
     </style>
   </head>
   <body>
-    <div class="container">
+    <div class="container" role="main">
       <div class="card">
         <div class="qrcode">
           <img
